@@ -5,13 +5,8 @@ This repository contains a **Power BI dashboard** designed to analyze and visual
 The dashboard provides actionable insights into sales trends, product categories, and overall business performance.
 
 ---
-
 ## 🖼️ Dashboard Preview
-
-### 🔹 Main Dashboard View
-<p align="center">
-  <img src="images/blinkit_dashboard.png" alt="Blinkit Sales Dashboard" width="800"/>
-</p>
+![Blinkit Dashboard](./images/blinkit_dashboard.png)
 
 ---
 
