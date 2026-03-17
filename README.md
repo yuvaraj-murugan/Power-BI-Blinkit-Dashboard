@@ -10,7 +10,7 @@ The dashboard provides actionable insights into sales trends, product categories
 
 ### 🔹 Main Dashboard View
 <p align="center">
-  <img src="images/blinkit_dashboard.png.png" alt="Blinkit Sales Dashboard" width="800"/>
+  <img src="images/blinkit_dashboard.png" alt="Blinkit Sales Dashboard" width="800"/>
 </p>
 
 ---
